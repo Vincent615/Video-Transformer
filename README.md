@@ -7,5 +7,3 @@
 - Cuda
 
 ## Acknowledgment
-
-CMPUT 328, University of Alberta
